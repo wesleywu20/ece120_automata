@@ -26,4 +26,6 @@ For all tools, you will need to create your own `.env` file in the root director
   ```
   CANVAS_API_KEY="copied_api_key"
   ```
-  
+
+## Feedback
+I'm always open to feedback! If you have any suggestions for what to improve or new tools to add, feel free to send me an email at `wwu70@illinois.edu`.
