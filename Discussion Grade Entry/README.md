@@ -6,7 +6,9 @@ This script helps you enter discussion grades and comments on a per-group basis,
 
 To use the script, first install the requirements:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 Then, run the script with the following required arguments:
 
