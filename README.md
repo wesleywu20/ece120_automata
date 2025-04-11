@@ -14,7 +14,7 @@ Then `cd` into the directory corresponding to the tool you wish to use.
 
 ## Requirements
 
-For each tool, you will need to create your own `.env` file with the following information:
+For all tools, you will need to create your own `.env` file in the root directory of this repo with the following information:
 - `ECE_120_COURSE_ID`: the course ID of the ECE 120 course on Canvas; this can be found at the end of the URL when you visit the homepage of the course:
   - `https://canvas.illinois.edu/courses/courseID`
   - Specify the course ID in the .env file using the following syntax:
