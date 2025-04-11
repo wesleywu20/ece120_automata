@@ -20,4 +20,4 @@ python3 .\enter_discussion_grades.py --ws_number WORKSHEET_NUMBER --section SECT
 - `--section`: the section (e.g., AB3) for which you are entering grades.
 - `--group_netIDs`: the netIDs of all the group members of the group you are entering grades for, to be entered as a space-separated list (e.g., netID1 netID2 ...).
 - `--grade`: the grade to enter for all group members.
-- `--comment`: the submission comment to enter for all group members, to be specified as a comma-separated list of comments without spaces (e.g., comment1,comment2,...); will transform comments into a bulleted list on separate lines.
+- `--comment`: the submission comment to enter for all group members, to be specified as a comma-separated list of comments without spaces (e.g., comment1,comment2,...); the script will transform comments into a bulleted list on separate lines.
