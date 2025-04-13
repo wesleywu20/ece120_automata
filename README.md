@@ -9,6 +9,8 @@ Currently, this repo contains tools to help automate the manual tasks on Canvas,
 
 These tools are implemented in Python, so using them assumes you have Python installed on your system. If not, just visit the [Official Python Website](https://www.python.org/downloads/) and download any version of Python 3 for your operating system.
 
+You will also need Python's `pip` to install some non-default Python libraries. If you don't have it installed on your system yet, you can simply follow these directions on the [pip documentation](https://pip.pypa.io/en/stable/installation/#get-pip-py).
+
 ## Usage
 To use the tools in this repo, simply clone this repo:
 ```
