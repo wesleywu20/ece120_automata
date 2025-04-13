@@ -5,6 +5,10 @@ Currently, this repo contains tools to help automate the manual tasks on Canvas,
 - Discussion Grade Entry: uses the Canvas API to help you enter grades and comments on a per-group basis
 - More to come!
 
+## Prerequisites
+
+These tools are implemented in Python, so using them assumes you have Python installed on your system. If not, just visit the [Official Python Website](https://www.python.org/downloads/) and download any version of Python 3 for your operating system.
+
 ## Usage
 To use the tools in this repo, simply clone this repo:
 ```
